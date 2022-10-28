@@ -1,0 +1,7 @@
+cad/PCB/*backups
+sdk/
+build/
+tools/env/
+*.pyc
+.vscode/
+*.code-workspace
